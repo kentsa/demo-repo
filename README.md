@@ -1,7 +1,7 @@
 # Demo
 
 Some description!
-Eddy ...
+Eddy Kentsa
 
 ## Subheader
         
